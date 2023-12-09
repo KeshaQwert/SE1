@@ -1,3 +1,7 @@
+//
+// This program is just an example one under VCS.
+// Author: Kondratev Aleksandr, KE-217
+//
 #include <iostream>
 
 using namespace std;
